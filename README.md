@@ -1,59 +1,46 @@
-
-````markdown
 <p align="center">
-  <img src="VeilGate.jpg" alt="VEILGATE" width="100%">
+  <img src="FigureVault.jpg" alt="FIGUREVAULT" width="100%">
 </p>
 
-# VEILGATE
+# FIGUREVAULT
 
-A dark fantasy contact page designed as an immersive web experience rather than a conventional contact form.
+FIGUREVAULT is a modern e-commerce UI for action figures, anime characters, gaming collectibles, and miniature models.
 
-VEILGATE combines atmospheric visuals, a fantasy-inspired interface, interactive form elements, glowing effects, and a custom map section into a single-page contact experience.
+Combining a bold gallery-inspired aesthetic with conversion-focused UX, it delivers a fast, responsive storefront built for collectors.
 
 ## Features
 
-- Dark fantasy visual design
-- Responsive layout
-- Interactive contact form
-- Client-side form validation
-- Animated transmission status
-- Atmospheric glowing effects
-- Fantasy-inspired moon and map
-- Interactive hover states
-- Responsive mobile layout
-- Pure HTML, CSS, and JavaScript
-- No framework required
+* Responsive e-commerce layout
+* Collector-focused product showcase
+* Collection categories
+* Featured figures and new arrivals
+* RC & miniature models section
+* Interactive cart feedback
+* Newsletter interaction
+* Responsive mobile navigation
+* Dark, white, and red visual system
+* Smooth hover and interaction effects
 
 ## Built With
 
-- HTML5
-- CSS3
-- JavaScript
-- Google Fonts
+* HTML5
+* CSS3
+* JavaScript
+* Google Fonts
+* Unsplash
 
 ## Project Structure
 
 ```text
-VEILGATE/
+FIGUREVAULT/
 ├── index.html
-├── style.css
-├── script.js
-└── VeilGate.jpg
-````
+├── FigureVault.jpg
+└── README.md
+```
 
 ## Live Demo
 
-[View Live Demo](https://starvixdev.github.io/VEILGATE/)
-
-## CodePen
-
-[View on CodePen](https://codepen.io/editor/sinarezaei/pen/01a11585-8207-7713-b0b2-5d309085c045)
-
-## Concept
-
-VEILGATE was created around the idea of turning a simple contact page into a small fictional world.
-
-Instead of presenting a standard contact form, the interface treats communication as a journey through an ancient gate, using atmospheric lighting, fantasy terminology, glowing effects, and a visual map to create the surrounding environment.
+[View Live Demo](https://starvixdev.github.io/FIGUREVAULT/)
 
 ## License
 
@@ -61,15 +48,5 @@ This project is licensed under the MIT License.
 
 ## Credits
 
-**Brand:** STARVIX
-
-**Developer:** SINA REZAEI
-
-**Developer URL:**
-[https://starvixdev.github.io/](https://starvixdev.github.io/)
-
----
-
+**STARVIX**
 **DESIGN & DEVELOPER BY SINA REZAEI**
-
-```
